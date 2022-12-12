@@ -21,6 +21,7 @@ question = Console.ReadLine();
 
 Console.Clear();
 
+
 guessWord = new Char[hiddenWord.Length];
 for (int i = 0; i < guessWord.Length; i++)
 {
